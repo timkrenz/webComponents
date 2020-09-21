@@ -1,12 +1,10 @@
-#How to run
+# How to run
 
-##macigCalculator 
+## macigCalculator 
 
-npm i parcel-bundler
+npm i parcel-bundler  
 parcel index.html
 
-##my-comp
+## my-comp
 
 npm start
-
-wieso funktioniert das ranzige markdown nöd...
